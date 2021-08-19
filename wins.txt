@@ -1,0 +1,65 @@
+# Wins of the Week
+
+Once a week, come back to this file and document your "wins of the week".
+
+Anything you consider a win counts but even better if it's a result of your progress in the Program.
+
+## Week 01: 2021-08-16 - 2021-08-22
+
+- I decided to take control of my Python journey and joined the PyBites Developer Mindset Program
+- I added a handful of useful aliases to my shell tcsh for working with git and Python
+-
+
+## Week 02: 2021-08-23 - 2021-08-29
+
+-
+-
+-
+
+## Week 03: 2021-08-30 - 2021-09-05
+
+-
+-
+-
+
+## Week 04: 2021-09-06 - 2021-09-12
+
+-
+-
+-
+
+## Week 05: 2021-09-13 - 2021-09-19
+
+-
+-
+-
+
+## Week 06: 2021-09-20 - 2021-09-26
+
+-
+-
+-
+
+## Week 07: 2021-09-27 - 2021-10-03
+
+-
+-
+-
+
+## Week 08: 2021-10-04 - 2021-10-10
+
+-
+-
+-
+
+## Week 09: 2021-10-11 - 2021-10-17
+
+-
+-
+-
+
+## Week 10: 2021-10-18 - 2021-10-24
+
+-
+-
+-
