@@ -8,7 +8,9 @@ Anything you consider a win counts but even better if it's a result of your prog
 
 - I decided to take control of my Python journey and joined the PyBites Developer Mindset Program
 - I added a handful of useful aliases to my shell tcsh for working with git and Python
--
+- I dropped the tendancy I usually cling to that makes me want to perfect my
+  code before I push a change, I'm learning to drop perfectionism in favor of
+  rapid itteration and giving myself the freedom to develop
 
 ## Week 02: 2021-08-23 - 2021-08-29
 
