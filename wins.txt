@@ -11,6 +11,7 @@ Anything you consider a win counts but even better if it's a result of your prog
 - I dropped the tendancy I usually cling to that makes me want to perfect my
   code before I push a change, I'm learning to drop perfectionism in favor of
   rapid itteration and giving myself the freedom to develop
+- setup the trello like project board and added a lot of issues to work on
 
 ## Week 02: 2021-08-23 - 2021-08-29
 
