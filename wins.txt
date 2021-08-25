@@ -15,7 +15,8 @@ Anything you consider a win counts but even better if it's a result of your prog
 
 ## Week 02: 2021-08-23 - 2021-08-29
 
--
+- I went down a rabbit hole of configuration management with Ansible and
+  pulled myself out of it so I could work on high priority tasks
 -
 -
 
