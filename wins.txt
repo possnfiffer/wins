@@ -17,7 +17,9 @@ Anything you consider a win counts but even better if it's a result of your prog
 
 - I went down a rabbit hole of configuration management with Ansible and
   pulled myself out of it so I could work on high priority tasks
--
+- I heard a great tip in one of the Code Clinics and put it to use in my
+  project to close an Issue. It only took a few minutes to implement and got
+  me one step closer to my goals.
 -
 
 ## Week 03: 2021-08-30 - 2021-09-05
