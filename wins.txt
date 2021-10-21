@@ -57,7 +57,9 @@ Anything you consider a win counts but even better if it's a result of your prog
 
 ## Week 06: 2021-09-20 - 2021-09-26
 
--
+- Impressed my team at work with my first project that used selenium to
+  automate the web browser and handle a tedious work task involving our
+  ticketing system
 -
 -
 
@@ -81,6 +83,7 @@ Anything you consider a win counts but even better if it's a result of your prog
 
 ## Week 10: 2021-10-18 - 2021-10-24
 
--
+- Messages from WhatsApp > Twilio Studio > FastAPI > PostgreSQL
+  > SendGrid > GLOBE Email Data Entry
 -
 -
